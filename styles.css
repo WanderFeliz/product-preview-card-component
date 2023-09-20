@@ -122,7 +122,7 @@ button {
 
   .card-container {
     width: 600px;
-    height: 600px;
+    height: 450px;
   }
 
   .card {
@@ -159,6 +159,10 @@ button {
 
   .act-price{
     font-size: 38px;
+  }
+
+  button {
+    height: 48px;
   }
 
 
